@@ -4,6 +4,8 @@ A growing collection of links is available for you to post and boost your produc
 
 ## Websites
 
+_Please note that the traffic statistics are dated February 2024._
+
 | Website                                                            | Traffic |
 | ------------------------------------------------------------------ | ------- |
 | [aitoolsfor.com](https://aitoolsfor.com)                           | 36611   |
